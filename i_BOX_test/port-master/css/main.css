@@ -1,0 +1,26 @@
+body {
+  background: #1094a3
+
+}
+
+
+
+
+.globalNav {
+  list-style: none;
+  overflow: hidden;
+
+}
+
+.globalNav li {
+  float: right;
+  border-right: 1px solid #DDD;
+
+}
+
+.globalNav li a {
+  display: block;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+}
